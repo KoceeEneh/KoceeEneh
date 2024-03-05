@@ -25,6 +25,7 @@ I'm Kocee Eneh, a passionate and versatile Tech eunthiast dedicated to crafting 
 
 ### 📈 GitHub Stats:
 [![kocee's GitHub stats](https://github-readme-stats.vercel.app/api?username=kocee)](https://github.com/kocee/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kocee&hide=contribs,prs)
 
 Feel free to explore my repositories and reach out if you'd like to collaborate, discuss tech, or just have a good coding chat! 🚀
 
