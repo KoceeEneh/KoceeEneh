@@ -21,7 +21,7 @@ I'm Kocee Eneh, a passionate and versatile Tech eunthiast dedicated to crafting 
 
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/)
 - **Portfolio:** [Your Portfolio or Personal Website](https://www.yourportfolio.com)
-- **Twitter:** [@YourTwitterHandle](https://twitter.com/Ko_cee)
+- **Twitter:** [Your twitter profile](https://www.x.com/ko_ceeherself)
 
 ### 📈 GitHub Stats:
 [![kocee's GitHub stats](https://github-readme-stats.vercel.app/api?username=kocee)](https://github.com/kocee/github-readme-stats)
